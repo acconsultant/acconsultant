@@ -1,0 +1,2 @@
+- 👋 Hi, I’m @acconsultant aka Allan Christensen DK
+- 👀 I’m interested in primarily frontend development: UI5, react, react native Swift and SwiftUI.
